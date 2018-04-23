@@ -59,5 +59,8 @@
     <ClInclude Include="Logger.h">
       <Filter>Header Files\util</Filter>
     </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>Header Files\engine</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
